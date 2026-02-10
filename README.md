@@ -1,0 +1,1 @@
+SQXL is a portable desktop gui app for performing quick SQL queries on .csv and .xlsx files. It is great for both learning and using SQL when you need a quick answer and a full database does not make sense. SQXL is available as a binary winform app for .net 4.8.1 or alternatively as a python 3.14 file
